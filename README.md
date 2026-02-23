@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Krishna Singh.</h1>
----
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishnasingh100&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnasingh100" />
 </p>
----
+
 <p align="center">
   <a href="https://github.com/Krishnasingh100">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=FrontEND+Developer;React+%7C+JavaScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
 </p>
----
+
 ## 🛠️ Skills & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +24,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
----
+
 
 
 ## 🌱 Currently Learning
@@ -30,13 +32,18 @@
 - ⚛️ Advanced React patterns & hooks
 - 🟢 Node.js & Express.js (Backend)
 - 🐳 Docker & Deployment
+
 ---
+
+
+
 ## 📬 Get In Touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-singh-412ba4357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+ 
   <a href="mailto:ks5482593@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -48,6 +55,7 @@
   </a>
 </p>
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,6 +72,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 
 <p align="center">⭐️ From <a href="https://github.com/Krishnasingh100">Krishna Singh</a> — Thanks for visiting! 😊</p>
