@@ -67,10 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasingh100&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">⭐️ From <a href="https://github.com/Krishnasingh100">Krishna Singh</a> — Thanks for visiting! 😊</p>
+
