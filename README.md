@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Singh.</h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishnasingh100&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnasingh100" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/Krishnasingh100">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=FrontEND+Developer;React+%7C+JavaScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
-</p>
 
 ## 🛠️ Skills & Technologies
 
