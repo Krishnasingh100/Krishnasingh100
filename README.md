@@ -29,13 +29,9 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Bulding
+  CollabDocs
 
-* ⚛️ Advanced React patterns & hooks
-* 🔷 TypeScript & Next.js
-* 🟢 Node.js & Express.js
-* 🗄️ SQL & PostgreSQL
-* 🐳 Docker & Deployment
 
 ---
 
