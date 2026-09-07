@@ -29,7 +29,7 @@
 
 ---
 
-## 🌱 Currently Bulding
+##  Currently Building
   CollabDocs
 
 
